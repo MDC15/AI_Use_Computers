@@ -1,0 +1,6 @@
+pyttsx3
+pyaudio
+speechrecognition
+google-generativeai
+dotenv
+asyncio
